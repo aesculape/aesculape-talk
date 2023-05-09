@@ -1,0 +1,65 @@
+---
+title: "Welcome to Aesculape"
+author: "Dr Johan Ibrahim MD"
+format: 
+  revealjs:
+    theme: league
+    footer: "[AESCULAPE CRO](https://www.aesculape.com/)"
+chalkboard: 
+  theme: chalkboard
+editor: visual
+---
+
+## About Aesculape
+
+::: incremental
+-   Aesculape CRO is a fast growing CRO based in Europe and Asia
+-   We are unifying the continents with one goal **Improving People's Lives**
+:::
+
+## History
+
+::: columns
+::: {.column width="40%"}
+
+![Aesculapius](images/aesculape.jpg)
+:::
+
+::: {.column width="60%"}
+::: {.incremental}
+- Asclepius (æsˈkliːpiəs) in Greek 
+- Aesculapius is a hero and god of medicine in ancient Greek religion and mythology 
+- Asclepius stand for "God of medicine, healing, rejuvenation and physicians
+:::
+
+::: 
+:::
+
+# Our CEO
+![](images/jp.jpg){fig-align="center"}
+
+## Jean Paul Deslypere {.smaller}
+::: columns
+::: {.column width="50%"}
+::: {.incremental}
+-   MD PhD (University of Ghent) FFPM(Hon)
+-   25 years experience in clinical trials
+-   Ex-Prof Endocrinology and Metabolic Diseases University Gent
+-   Ex-Research Director NFWO (National Fund Scientific Research) Belgium
+-   Fulbright bursal and NATO bursal (Univ of Texas South Western Dallas)
+-   NWO and Nutricia bursal (Agricultural University Wageningen Netherlands)
+:::
+:::
+
+::: {.column width="50%"}
+::: {.incremental}
+
+-   Founder of BARC Lab and ICON CRO in Asia
+-   Initiator of the DSRB's in Singapore
+-   Ex-Director of CTERU and ex-mentor of SCRI in Singapore
+-   Ex-Adjunct Professor COFM NUS Singapore
+-   Honorary Fellow Faculty of Pharmaceutical Medicine Royal College of Physicians
+-   Visiting Professor Kings College London
+:::
+:::
+:::

@@ -3,7 +3,7 @@ title: "Welcome to Aesculape"
 author: "Dr Johan Ibrahim MD"
 format: 
   revealjs:
-    theme: league
+    theme: [default, style.scss]
     footer: "[AESCULAPE CRO](https://www.aesculape.com/)"
 chalkboard: 
   theme: chalkboard
@@ -17,31 +17,31 @@ editor: visual
 -   We are unifying the continents with one goal **Improving People's Lives**
 :::
 
-## History
+## History {.centered}
 
 ::: columns
 ::: {.column width="40%"}
-
-![Aesculapius](images/aesculape.jpg)
+![Aesculapius](images/aesculape.jpg){.figure}
 :::
 
 ::: {.column width="60%"}
-::: {.incremental}
-- Asclepius (æsˈkliːpiəs) in Greek 
-- Aesculapius is a hero and god of medicine in ancient Greek religion and mythology 
-- Asclepius stand for "God of medicine, healing, rejuvenation and physicians
+::: incremental
+-   Asclepius **(æsˈkliːpiəs)** in Greek
+-   Aesculapius is a hero and god of medicine in ancient Greek religion and mythology
+-   Asclepius stand for "God of medicine, healing, rejuvenation and physicians
 :::
-
-::: 
+:::
 :::
 
 # Our CEO
+
 ![](images/jp.jpg){fig-align="center"}
 
-## Jean Paul Deslypere {.smaller}
+## Jean Paul Deslypere {.smaller .centered}
+
 ::: columns
 ::: {.column width="50%"}
-::: {.incremental}
+::: incremental
 -   MD PhD (University of Ghent) FFPM(Hon)
 -   25 years experience in clinical trials
 -   Ex-Prof Endocrinology and Metabolic Diseases University Gent
@@ -52,8 +52,7 @@ editor: visual
 :::
 
 ::: {.column width="50%"}
-::: {.incremental}
-
+::: incremental
 -   Founder of BARC Lab and ICON CRO in Asia
 -   Initiator of the DSRB's in Singapore
 -   Ex-Director of CTERU and ex-mentor of SCRI in Singapore
